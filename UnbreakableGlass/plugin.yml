@@ -1,0 +1,5 @@
+name: UnbreakableGlass
+version: 1.0
+author: ToujoursTitou
+main: fr.titou.unbreakableglass.Main
+api-version: 1.13
